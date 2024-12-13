@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|c:\\users\\steve\\source\\repos\\libroscrudsolution\\soapservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|solutionrelative:soapservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A749EA-C1ED-447D-AE67-E5FC01683992}|BLL\\BLL.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\bll\\libroslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A749EA-C1ED-447D-AE67-E5FC01683992}|BLL\\BLL.csproj|solutionrelative:bll\\libroslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5156B72-85EC-4F5D-8360-50DD848AA060}|Entities\\Entities.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5156B72-85EC-4F5D-8360-50DD848AA060}|Entities\\Entities.csproj|solutionrelative:entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE6E1F-0DDD-4FE8-8873-418977C2D275}|Test\\Test.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{92FE6E1F-0DDD-4FE8-8873-418977C2D275}|Test\\Test.csproj|solutionrelative:test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE6E1F-0DDD-4FE8-8873-418977C2D275}|Test\\Test.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE6E1F-0DDD-4FE8-8873-418977C2D275}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\soapservices\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|solutionrelative:soapservices\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\soapservices\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|solutionrelative:soapservices\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\soapservices\\service1.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{4ED08CB4-0D83-4498-8239-5834F1DD93B8}|SOAPServices\\SOAPServices.csproj|solutionrelative:soapservices\\service1.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\dal\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|solutionrelative:dal\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F9DB71F3-0642-4F0F-AA27-3E98E2B3984B}|DAL\\DAL.csproj|solutionrelative:dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-12T15:46:23.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Web.config",
+              "RelativeDocumentMoniker": "SOAPServices\\Web.config",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Web.config",
+              "RelativeToolTip": "SOAPServices\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T23:07:36.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\IService1.cs",
+              "RelativeDocumentMoniker": "SOAPServices\\IService1.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\IService1.cs",
+              "RelativeToolTip": "SOAPServices\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:01:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "SOAPServices\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Service1.svc.cs",
+              "RelativeToolTip": "SOAPServices\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:00:58.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Test\\App.config",
+              "RelativeDocumentMoniker": "Test\\App.config",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Test\\App.config",
+              "RelativeToolTip": "Test\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T22:49:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:42:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\Entities\\Libro.cs",
+              "RelativeToolTip": "Entities\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:31:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:32:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosLogic.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\BLL\\LibrosLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\LibrosLogic.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\BLL\\LibrosLogic.cs",
+              "RelativeToolTip": "BLL\\LibrosLogic.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:37:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service1.svc",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Service1.svc",
+              "RelativeDocumentMoniker": "SOAPServices\\Service1.svc",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\SOAPServices\\Service1.svc",
+              "RelativeToolTip": "SOAPServices\\Service1.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-12-11T23:11:54.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "DAL\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Model1.Context.cs",
+              "RelativeToolTip": "DAL\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:38:49.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Model1.edmx",
+              "RelativeDocumentMoniker": "DAL\\Model1.edmx",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\LibrosCRUDSolution\\DAL\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DAL\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-11T22:36:08.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
